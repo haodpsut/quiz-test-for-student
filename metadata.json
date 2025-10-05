@@ -1,0 +1,5 @@
+{
+  "name": "CodeMaster Quiz",
+  "description": "An interactive web application to help programming students practice their knowledge. It dynamically generates unique quiz questions based on a user-selected topic, providing instant feedback and detailed explanations.",
+  "requestFramePermissions": []
+}
